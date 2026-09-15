@@ -407,6 +407,8 @@
 	<string name="description_volume_gradually_increase_volume_timer">Aumenta el volumen del temporizador a una frecuencia establecida.</string>
 	<string name="description_volume_restrict_volume_alarm">El volumen no se puede bajar cuando suena la alarma.</string>
 	<string name="description_volume_restrict_volume_timer">El volumen no se puede disminuir cuando finaliza el temporizador.</string>
+	<string name="description_dismiss_options_auto_dismiss_alarm">Dismiss the alarm automatically after a set duration.</string>
+	<string name="description_dismiss_options_auto_dismiss_timer">Dismiss the timer automatically after a set duration.</string>
 	<string name="description_dismiss_options_dismiss_early">Desactive la alarma de forma anticipada, antes de que se active.</string>
 	<string name="description_dismiss_options_dismiss_early_notification">Mostrar una notificación cuando la alarma pueda desactivarse antes de tiempo.</string>
 	<string name="description_dismiss_options_delete_after_dismissed_alarm">La alarma se eliminará después de que se desestime.</string>
